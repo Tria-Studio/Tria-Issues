@@ -1,4 +1,4 @@
 # TRIA-Issues
 Public Repo for suggestions and bugs.
-Use the templates, issues 1 and 2 in issues before submitting.
+Use the templates as much as possible.
 All submissions must be labeled. 
