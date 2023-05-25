@@ -9,8 +9,9 @@ assignees: ''
 
 **Fill in the below**
 
-SHORT ID: 
+
 MAP NAME: 
+SHORT ID: 
 OWNER ID (Person who will be responsible for updating the map): 
 MAP ID: 5322283055
 IMAGE ID: 12954301002
@@ -20,11 +21,11 @@ VIDEO SHOWCASE:
 
 **FULL MAP CHANGELOG**
 
-# Added
+## Added
  *
-# Removed
+## Removed
  * 
 
-# Improved
+## Improved
  *
 
