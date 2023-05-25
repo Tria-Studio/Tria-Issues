@@ -2,7 +2,7 @@
 name: Map Update Request
 about: Create a update request for a map.
 title: "[UPDATE REQUEST] Title Here"
-labels: bug
+labels: 
 assignees: ''
 
 ---
