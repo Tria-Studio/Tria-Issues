@@ -15,7 +15,7 @@ MAP ID:
 IMAGE ID: 
 DIFFICULTY NUMBER:
 OWNER ID (Person responsible for updating the map):
-LATEST ASSET VERSION: (run this `print(game:GetService(InsertService):GetLatestAssetVersionAsync(CHANGE THIS TO MAP ID))`)
+LATEST ASSET VERSION: (run this `print(game:GetService("InsertService"):GetLatestAssetVersionAsync(CHANGE THIS TO MAP ID))`)
 VIDEO SHOWCASE:
 
 REASON FOR UPDATE:
