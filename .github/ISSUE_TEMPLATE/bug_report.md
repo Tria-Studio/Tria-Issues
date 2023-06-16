@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+A clear and concise description of what the bug is. Must specify whether the bug is a bug with TRIA.os or the Mapmaking Plugin.
 
 **To Reproduce**
 Steps to reproduce the behavior:
